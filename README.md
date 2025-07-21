@@ -18,11 +18,10 @@ It automates the generation of **Java gadget chain payloads** with OOB triggers 
 ## Requirements
 
 ```bash
-mkdir ysoblind
+git clone https://github.com/s3wag/ysoblind.git
 cd ysoblind
 wget https://github.com/frohoff/ysoserial/releases/download/v0.0.6/ysoserial-all.jar -O ysoserial-all.jar
 chmod +x ysoserial-all.jar
-git clone
 chmod +x ysoblind.sh
 ```
 
