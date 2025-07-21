@@ -1,7 +1,7 @@
 # ysoblind
 
 
-It automates the generation of **Java-PHP gadget chain payloads** with OOB triggers like `nslookup` or `curl`, encoded and ready to be injected into **headers, cookies, or parameters** for blind exploitation.
+It automates the generation of **java-php gadget chain payloads** with OOB triggers like `nslookup` or `curl`, encoded and ready to be injected into **headers, cookies, or parameters** for blind exploitation.
 
 ---
 
