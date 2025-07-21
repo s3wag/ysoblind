@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Check for ysoserial.jar
+# Check for ysoserial-all.jar
 if [ ! -f "ysoserial-all.jar" ]; then
   echo "❌ ysoserial.-alljar not found in current directory!"
   exit 1
